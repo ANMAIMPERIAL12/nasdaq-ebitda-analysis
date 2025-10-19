@@ -12,22 +12,33 @@ It's a practical demonstration of how Python's data science ecosystem can be lev
 
 ⚙️ Tech Stack
 
-Category       |  Technologies         
+Category       |  Technologies  
+
 ---------------+-----------------------
-Language       |  Python               
-Data Handling  |  Pandas, NumPy        
-Visualization  |  Matplotlib, Seaborn  
+
+Language       |  Python             
+
+Data Handling  |  Pandas, NumPy     
+
+Visualization  |  Matplotlib, Seaborn 
+
 Analysis       |  Statistical Libraries
+
 Environment    |  Jupyter Notebook     
 
 
 🚀 Features
 
 ✅ Data Preprocessing: Clean and structure financial datasets
+
 ✅ Exploratory Data Analysis: Statistical summaries and insights
+
 ✅ Financial Metrics: Calculate key performance indicators
+
 ✅ Data Visualization: Professional charts and graphs
+
 ✅ Statistical Analysis: Trend analysis and correlation studies
+
 ✅ Best Practices: Clean, documented, and reproducible code
 
 
@@ -36,20 +47,27 @@ Environment    |  Jupyter Notebook
 Financial Metrics Analysis
 
 -> Revenue and profit margin calculations
+
 -> Performance trend analysis
+
 -> Comparative financial ratios
 
 Data Visualization
 
 -> Distribution plots and histograms
+
 -> Time-series analysis charts
+
 -> Correlation heatmaps
+
 -> Financial performance dashboards
 
 Statistical Insights
 
 -> Descriptive statistics
+
 -> Trend identification
+
 -> Outlier detection and handling
 
 
@@ -114,13 +132,20 @@ Statistical Insights
 
  📊 Skills Demonstrated
 
- Skill Category  |  Technologies & Concepts                        
+ Skill Category  |  Technologies & Concepts                    
+ 
 ----------------+-------------------------------------------------
-Data Science    |  Pandas, NumPy, Statistical Analysis            
-Visualization   |  Matplotlib, Seaborn, Professional Charts       
-Programming     |  Python, Jupyter Notebooks, Clean Code          
+
+Data Science    |  Pandas, NumPy, Statistical Analysis  
+
+Visualization   |  Matplotlib, Seaborn, Professional Charts  
+
+Programming     |  Python, Jupyter Notebooks, Clean Code   
+
 Finance         |  Financial Metrics, KPI Analysis, Trend Analysis
+
 Documentation   |  Technical Writing, Code Documentation          
+
 
 
 ⭐ If you found this analysis helpful, please star the repository! ⭐
