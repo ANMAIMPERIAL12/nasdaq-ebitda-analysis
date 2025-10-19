@@ -4,15 +4,14 @@
 A comprehensive data analytics project demonstrating financial data manipulation, statistical analysis, and data visualization using Python.
 This project showcases skills in data preprocessing, exploratory data analysis (EDA), and financial metrics visualization.
 
+---
+
 🧠 Project Overview
 
 This notebook covers fundamental financial data analysis techniques, from data cleaning and preprocessing to advanced statistical analysis and visualization.
 It's a practical demonstration of how Python's data science ecosystem can be leveraged for financial insights and decision-making.
 
-
-
-
-
+---
 
 ⚙️ Tech Stack
 
@@ -30,10 +29,7 @@ Analysis       |  Statistical Libraries
 
 Environment    |  Jupyter Notebook     
 
-
-
-
-
+---
 
 🚀 Features
 
@@ -49,11 +45,7 @@ Environment    |  Jupyter Notebook
 
 ✅ Best Practices: Clean, documented, and reproducible code
 
-
-
-
-
-
+---
 
 📈 Key Analysis Areas
 
@@ -83,11 +75,7 @@ Statistical Insights
 
 -> Outlier detection and handling
 
-
-
-
-
-
+---
 
 🧩 File Structure
 
@@ -102,12 +90,9 @@ Statistical Insights
  ┗ 🧩 .gitignore                     ← Excludes temporary files
 
 
-
-
+---
  
-
- 
- 🧭 How to Run Locally
+🧭 How to Run Locally
  
 1. Clone the repository 
  
@@ -128,8 +113,7 @@ Statistical Insights
    Open basics.ipynb and run all cells to see the analysis in action.
 
 
-
-
+---
 
 
 🧠 Key Learnings
@@ -145,7 +129,7 @@ Statistical Insights
 -> Financial Domain: Understanding of key financial metrics and KPIs
 
 
-
+---
 
 
 🌟 Future Enhancements
@@ -161,7 +145,7 @@ Statistical Insights
 *  Portfolio Analysis: Multi-asset portfolio optimization techniques
 
 
- 
+--- 
  
  
  📊 Skills Demonstrated
@@ -181,7 +165,7 @@ Finance         |  Financial Metrics, KPI Analysis, Trend Analysis
 Documentation   |  Technical Writing, Code Documentation          
 
 
-
+---
 
 
 ⭐ If you found this analysis helpful, please star the repository! ⭐
