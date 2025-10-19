@@ -12,6 +12,8 @@ It's a practical demonstration of how Python's data science ecosystem can be lev
 
 
 
+
+
 ⚙️ Tech Stack
 
 Category       |  Technologies  
@@ -31,6 +33,8 @@ Environment    |  Jupyter Notebook
 
 
 
+
+
 🚀 Features
 
 ✅ Data Preprocessing: Clean and structure financial datasets
@@ -44,6 +48,9 @@ Environment    |  Jupyter Notebook
 ✅ Statistical Analysis: Trend analysis and correlation studies
 
 ✅ Best Practices: Clean, documented, and reproducible code
+
+
+
 
 
 
@@ -80,6 +87,8 @@ Statistical Insights
 
 
 
+
+
 🧩 File Structure
 
 📦 nasdaq-ebitda-analysis
@@ -96,22 +105,25 @@ Statistical Insights
 
 
  
+
+ 
  🧭 How to Run Locally
  
 1. Clone the repository 
  
- git clone https://github.com/yourusername/financial-analysis-fundamentals.git
- cd financial-analysis-fundamentals
+   git clone https://github.com/yourusername/financial-analysis-fundamentals.git
+   
+   cd financial-analysis-fundamentals
 
-2. Install dependencies
+3. Install dependencies
 
    pip install -r requirements.txt
 
-3. Launch Jupyter Notebook
+4. Launch Jupyter Notebook
 
    jupyter notebook
 
-4. Open and run
+5. Open and run
 
    Open basics.ipynb and run all cells to see the analysis in action.
 
