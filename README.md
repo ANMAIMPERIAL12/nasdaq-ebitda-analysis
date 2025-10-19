@@ -1,9 +1,11 @@
 # nasdaq-ebitda-analysis
 📊 Financial Data Analysis Fundamentals
+
 A comprehensive data analytics project demonstrating financial data manipulation, statistical analysis, and data visualization using Python.
 This project showcases skills in data preprocessing, exploratory data analysis (EDA), and financial metrics visualization.
 
 🧠 Project Overview
+
 This notebook covers fundamental financial data analysis techniques, from data cleaning and preprocessing to advanced statistical analysis and visualization.
 It's a practical demonstration of how Python's data science ecosystem can be leveraged for financial insights and decision-making.
 
@@ -20,6 +22,7 @@ Environment    |  Jupyter Notebook
 
 
 🚀 Features
+
 ✅ Data Preprocessing: Clean and structure financial datasets
 ✅ Exploratory Data Analysis: Statistical summaries and insights
 ✅ Financial Metrics: Calculate key performance indicators
