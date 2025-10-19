@@ -1,4 +1,4 @@
-# nasdaq-ebitda-analysis
+# NASDAQ-EBITDA-ANALYSIS
 📊 Financial Data Analysis Fundamentals
 
 A comprehensive data analytics project demonstrating financial data manipulation, statistical analysis, and data visualization using Python.
@@ -8,6 +8,8 @@ This project showcases skills in data preprocessing, exploratory data analysis (
 
 This notebook covers fundamental financial data analysis techniques, from data cleaning and preprocessing to advanced statistical analysis and visualization.
 It's a practical demonstration of how Python's data science ecosystem can be leveraged for financial insights and decision-making.
+
+
 
 
 ⚙️ Tech Stack
@@ -27,6 +29,8 @@ Analysis       |  Statistical Libraries
 Environment    |  Jupyter Notebook     
 
 
+
+
 🚀 Features
 
 ✅ Data Preprocessing: Clean and structure financial datasets
@@ -40,6 +44,8 @@ Environment    |  Jupyter Notebook
 ✅ Statistical Analysis: Trend analysis and correlation studies
 
 ✅ Best Practices: Clean, documented, and reproducible code
+
+
 
 
 📈 Key Analysis Areas
@@ -72,16 +78,24 @@ Statistical Insights
 
 
 
+
+
 🧩 File Structure
 
 📦 nasdaq-ebitda-analysis
+
  ┣ 📓 basics.ipynb                  ← Main analysis notebook
+ 
  ┣ 🧾 requirements.txt               ← Python dependencies
+ 
  ┣ 📝 README.md                     ← Project documentation
+ 
  ┗ 🧩 .gitignore                     ← Excludes temporary files
 
 
 
+
+ 
  🧭 How to Run Locally
  
 1. Clone the repository 
@@ -103,6 +117,9 @@ Statistical Insights
 
 
 
+
+
+
 🧠 Key Learnings
 
 -> Data Manipulation: Mastered Pandas for financial data preprocessing
@@ -114,6 +131,8 @@ Statistical Insights
 -> Code Quality: Implemented clean, documented, reusable code
 
 -> Financial Domain: Understanding of key financial metrics and KPIs
+
+
 
 
 
@@ -130,6 +149,9 @@ Statistical Insights
 *  Portfolio Analysis: Multi-asset portfolio optimization techniques
 
 
+ 
+ 
+ 
  📊 Skills Demonstrated
 
  Skill Category  |  Technologies & Concepts                    
@@ -145,6 +167,8 @@ Programming     |  Python, Jupyter Notebooks, Clean Code
 Finance         |  Financial Metrics, KPI Analysis, Trend Analysis
 
 Documentation   |  Technical Writing, Code Documentation          
+
+
 
 
 
